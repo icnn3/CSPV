@@ -1,0 +1,5 @@
+-i https://artifactory-prxy-a.wellsfargo.net/artifactory/api/pypi/pypi.python-remote/simple
+requests~=2.31.0
+pwinput~=1.0.3
+art~=5.9
+requests-ntlm~=1.2.0
